@@ -1,0 +1,2 @@
+# cs-errorhunt
+ case study
